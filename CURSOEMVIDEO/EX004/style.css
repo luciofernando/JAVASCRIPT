@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: deepskyblue;
+    font: 20px negrito Arial;
+}
+
+header > h1 {
+    text-align: center;
+}
+
+section {
+    background-color: azure;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    
+}
